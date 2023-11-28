@@ -1,2 +1,2 @@
-def prueba2():
-    print("Esto es otra prueba con travis")
+def prueba():
+    print("Esto es la primera prueba con Buddy")

@@ -1,1 +1,1 @@
-print ("Prueba de travis 2")
+print ("Prueba de buddy 2")
